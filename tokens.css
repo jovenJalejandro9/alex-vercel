@@ -1,0 +1,8 @@
+@font-face{font-family:Inter;src:url(fonts/Inter.ttf);font-weight:100 900}
+@font-face{font-family:Geist;src:url(fonts/Geist.woff2) format("woff2");font-weight:100 900}
+@font-face{font-family:"Geist Mono";src:url(fonts/GeistMono.woff2) format("woff2");font-weight:100 900}
+:root{
+  --bg:#fafafa; --surface:#ffffff; --ink:#171717; --muted:#4d4d4d;
+  --line:#ebebeb; --accent:#171717; --blue:#0070f3;
+  --radius:8px; --button-radius:999px; --content:1100px; --theme:#000000;
+}
